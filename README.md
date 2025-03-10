@@ -54,4 +54,10 @@ services:
 volumes:
   mongo_data:
 
+  ![image](https://github.com/user-attachments/assets/b4ed2a0b-5255-4f86-bf56-33bb1eda921e)
+
+
+  ![image](https://github.com/user-attachments/assets/ce28afcb-eaba-4669-8b10-e5409e9f016d)
+
+
 
